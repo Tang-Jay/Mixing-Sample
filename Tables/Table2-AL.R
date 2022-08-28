@@ -12,7 +12,7 @@ x = 0   # x = 0,1
 m = 100 # Remove the first m samples
 set.seed(10)
 # =============================================== #
-#               Simulation begin here             #                  #
+#               Simulation begin here             # 
 # =============================================== #
 cat('x',' n',' ELAL',' AELAL',' NA','\n')
 for(n in c(50,100,150,200,250)){
